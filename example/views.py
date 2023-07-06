@@ -32,5 +32,5 @@ def email(subject, content):
    send_mail(subject,
       content,
       'asfaltmoscow.ru@mail.ru',
-      ['pvenv@icloud.com']
+      ['nairigukasyan2015@mail.ru']
    )
